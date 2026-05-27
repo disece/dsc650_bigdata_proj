@@ -1,0 +1,500 @@
+name,mana_cost,cmc,colors,color_identity,type,rarity,power,toughness
+Ancestor's Chosen,5WW,7,W,W,Creature  Human Cleric,Uncommon,4,4
+Angel of Mercy,4W,5,W,W,Creature  Angel,Uncommon,3,3
+Angelic Blessing,2W,3,W,W,Sorcery,Common,,
+Angelic Chorus,3WW,5,W,W,Enchantment,Rare,,
+Angelic Wall,1W,2,W,W,Creature  Wall,Common,0,4
+Aura of Silence,1WW,3,W,W,Enchantment,Uncommon,,
+Aven Cloudchaser,3W,4,W,W,Creature  Bird Soldier,Common,2,2
+Ballista Squad,3W,4,W,W,Creature  Human Rebel,Uncommon,2,2
+Bandage,W,1,W,W,Instant,Common,,
+Beacon of Immortality,5W,6,W,W,Instant,Rare,,
+Benalish Knight,2W,3,W,W,Creature  Human Knight,Common,2,2
+"Cho-Manno, Revolutionary",2WW,4,W,W,Legendary Creature  Human Rebel,Rare,2,2
+Condemn,W,1,W,W,Instant,Uncommon,,
+Demystify,W,1,W,W,Instant,Common,,
+Field Marshal,1WW,3,W,W,Creature  Human Soldier,Rare,2,2
+Ghost Warden,1W,2,W,W,Creature  Spirit,Common,1,1
+Glorious Anthem,1WW,3,W,W,Enchantment,Rare,,
+Hail of Arrows,XW,1,W,W,Instant,Uncommon,,
+Heart of Light,2W,3,W,W,Enchantment  Aura,Common,,
+High Ground,W,1,W,W,Enchantment,Uncommon,,
+Holy Day,W,1,W,W,Instant,Common,,
+Holy Strength,W,1,W,W,Enchantment  Aura,Common,,
+Honor Guard,W,1,W,W,Creature  Human Soldier,Common,1,1
+Icatian Priest,W,1,W,W,Creature  Human Cleric,Uncommon,1,1
+Kjeldoran Royal Guard,3WW,5,W,W,Creature  Human Soldier,Rare,2,5
+Loxodon Mystic,3WW,5,W,W,Creature  Elephant Cleric,Common,3,3
+Loyal Sentry,W,1,W,W,Creature  Human Soldier,Rare,1,1
+Luminesce,W,1,W,W,Instant,Uncommon,,
+Mobilization,2W,3,W,W,Enchantment,Rare,,
+Nomad Mythmaker,2W,3,W,W,Creature  Human Nomad Cleric,Rare,2,2
+Pacifism,1W,2,W,W,Enchantment  Aura,Common,,
+Paladin en-Vec,1WW,3,W,W,Creature  Human Knight,Rare,2,2
+Pariah,2W,3,W,W,Enchantment  Aura,Rare,,
+Reviving Dose,2W,3,W,W,Instant,Common,,
+Reya Dawnbringer,6WWW,9,W,W,Legendary Creature  Angel,Rare,4,6
+Righteousness,W,1,W,W,Instant,Rare,,
+Rule of Law,2W,3,W,W,Enchantment,Uncommon,,
+Samite Healer,1W,2,W,W,Creature  Human Cleric,Common,1,1
+Serra Angel,3WW,5,W,W,Creature  Angel,Rare,4,4
+Serra's Embrace,2WW,4,W,W,Enchantment  Aura,Uncommon,,
+Skyhunter Patrol,2WW,4,W,W,Creature  Cat Knight,Common,2,3
+Skyhunter Prowler,2W,3,W,W,Creature  Cat Knight,Common,1,3
+Skyhunter Skirmisher,1WW,3,W,W,Creature  Cat Knight,Uncommon,1,1
+Soul Warden,W,1,W,W,Creature  Human Cleric,Uncommon,1,1
+Spirit Link,W,1,W,W,Enchantment  Aura,Uncommon,,
+Spirit Weaver,1W,2,W,W,Creature  Human Wizard,Uncommon,2,1
+Starlight Invoker,1W,2,W,W,Creature  Human Cleric Mutant,Uncommon,1,3
+Steadfast Guard,WW,2,W,W,Creature  Human Rebel,Common,2,2
+Story Circle,1WW,3,W,W,Enchantment,Rare,,
+Suntail Hawk,W,1,W,W,Creature  Bird,Common,1,1
+Tempest of Light,2W,3,W,W,Instant,Uncommon,,
+Treasure Hunter,2W,3,W,W,Creature  Human,Uncommon,2,2
+True Believer,WW,2,W,W,Creature  Human Cleric,Rare,2,2
+Tundra Wolves,W,1,W,W,Creature  Wolf,Common,1,1
+Venerable Monk,2W,3,W,W,Creature  Human Monk Cleric,Common,2,2
+Voice of All,2WW,4,W,W,Creature  Angel,Rare,2,2
+Wall of Swords,3W,4,W,W,Creature  Wall,Uncommon,3,5
+Warrior's Honor,2W,3,W,W,Instant,Common,,
+Wild Griffin,2W,3,W,W,Creature  Griffin,Common,2,2
+Windborn Muse,3W,4,W,W,Creature  Spirit,Rare,2,3
+Wrath of God,2WW,4,W,W,Sorcery,Rare,,
+Youthful Knight,1W,2,W,W,Creature  Human Knight,Common,2,1
+Academy Researchers,1UU,3,U,U,Creature  Human Wizard,Uncommon,2,2
+Air Elemental,3UU,5,U,U,Creature  Elemental,Uncommon,4,4
+Ambassador Laquatus,1UU,3,U,U,Legendary Creature  Merfolk Wizard,Rare,1,3
+Arcanis the Omnipotent,3UUU,6,U,U,Legendary Creature  Wizard,Rare,3,4
+Aura Graft,1U,2,U,U,Instant,Uncommon,,
+Aven Fisher,3U,4,U,U,Creature  Bird Soldier,Common,2,2
+Aven Windreader,3UU,5,U,U,Creature  Bird Soldier Wizard,Common,3,3
+Boomerang,UU,2,U,U,Instant,Common,,
+Cancel,1UU,3,U,U,Instant,Common,,
+Cephalid Constable,1UU,3,U,U,Creature  Cephalid Wizard,Rare,1,1
+Clone,3U,4,U,U,Creature  Shapeshifter,Rare,0,0
+Cloud Elemental,2U,3,U,U,Creature  Elemental,Common,2,3
+Cloud Sprite,U,1,U,U,Creature  Faerie,Common,1,1
+Counsel of the Soratami,2U,3,U,U,Sorcery,Common,,
+Crafty Pathmage,2U,3,U,U,Creature  Human Wizard,Common,1,1
+Dehydration,3U,4,U,U,Enchantment  Aura,Common,,
+Deluge,2U,3,U,U,Instant,Uncommon,,
+Denizen of the Deep,6UU,8,U,U,Creature  Serpent,Rare,11,11
+Discombobulate,2UU,4,U,U,Instant,Uncommon,,
+Dreamborn Muse,2UU,4,U,U,Creature  Spirit,Rare,2,2
+Evacuation,3UU,5,U,U,Instant,Rare,,
+Flashfreeze,1U,2,U,U,Instant,Uncommon,,
+Fog Elemental,2U,3,U,U,Creature  Elemental,Uncommon,4,4
+Fugitive Wizard,U,1,U,U,Creature  Human Wizard,Common,1,1
+Horseshoe Crab,2U,3,U,U,Creature  Crab,Common,1,3
+Hurkyl's Recall,1U,2,U,U,Instant,Rare,,
+Lumengrid Warden,1U,2,U,U,Creature  Human Wizard,Common,1,3
+Mahamoti Djinn,4UU,6,U,U,Creature  Djinn,Rare,5,6
+March of the Machines,3U,4,U,U,Enchantment,Rare,,
+Merfolk Looter,1U,2,U,U,Creature  Merfolk Rogue,Common,1,1
+Mind Bend,U,1,U,U,Instant,Rare,,
+Peek,U,1,U,U,Instant,Common,,
+Persuasion,3UU,5,U,U,Enchantment  Aura,Uncommon,,
+Phantom Warrior,1UU,3,U,U,Creature  Illusion Warrior,Uncommon,2,2
+Plagiarize,3U,4,U,U,Instant,Rare,,
+Puppeteer,2U,3,U,U,Creature  Human Wizard,Uncommon,1,2
+Reminisce,2U,3,U,U,Sorcery,Uncommon,,
+Remove Soul,1U,2,U,U,Instant,Common,,
+Robe of Mirrors,U,1,U,U,Enchantment  Aura,Common,,
+Rootwater Commando,2U,3,U,U,Creature  Merfolk,Common,2,2
+Rootwater Matriarch,2UU,4,U,U,Creature  Merfolk,Rare,2,3
+Sage Owl,1U,2,U,U,Creature  Bird,Common,1,1
+Scalpelexis,4U,5,U,U,Creature  Beast,Rare,1,5
+Sea Monster,4UU,6,U,U,Creature  Serpent,Common,6,6
+Shimmering Wings,U,1,U,U,Enchantment  Aura,Common,,
+Sift,3U,4,U,U,Sorcery,Common,,
+Sky Weaver,1U,2,U,U,Creature  Metathran Wizard,Uncommon,2,1
+Snapping Drake,3U,4,U,U,Creature  Drake,Common,3,2
+Spiketail Hatchling,1U,2,U,U,Creature  Drake,Uncommon,1,1
+Sunken Hope,3UU,5,U,U,Enchantment,Rare,,
+Telepathy,U,1,U,U,Enchantment,Uncommon,,
+Telling Time,1U,2,U,U,Instant,Uncommon,,
+Thieving Magpie,2UU,4,U,U,Creature  Bird,Uncommon,1,3
+Tidings,3UU,5,U,U,Sorcery,Uncommon,,
+Time Stop,4UU,6,U,U,Instant,Rare,,
+Time Stretch,8UU,10,U,U,Sorcery,Rare,,
+Traumatize,3UU,5,U,U,Sorcery,Rare,,
+Twincast,UU,2,U,U,Instant,Rare,,
+Twitch,2U,3,U,U,Instant,Common,,
+Unsummon,U,1,U,U,Instant,Common,,
+Vedalken Mastermind,UU,2,U,U,Creature  Vedalken Wizard,Uncommon,1,2
+Wall of Air,1UU,3,U,U,Creature  Wall,Uncommon,1,5
+Afflict,2B,3,B,B,Instant,Common,,
+Agonizing Memories,2BB,4,B,B,Sorcery,Uncommon,,
+Ascendant Evincar,4BB,6,B,B,Legendary Creature  Phyrexian Vampire Noble,Rare,3,3
+Assassinate,2B,3,B,B,Sorcery,Common,,
+Beacon of Unrest,3BB,5,B,B,Sorcery,Rare,,
+Bog Wraith,3B,4,B,B,Creature  Wraith,Uncommon,3,3
+Consume Spirit,X1B,2,B,B,Sorcery,Uncommon,,
+Contaminated Bond,1B,2,B,B,Enchantment  Aura,Common,,
+Cruel Edict,1B,2,B,B,Sorcery,Uncommon,,
+Deathmark,B,1,B,B,Sorcery,Uncommon,,
+Diabolic Tutor,2BB,4,B,B,Sorcery,Uncommon,,
+Distress,BB,2,B,B,Sorcery,Common,,
+Doomed Necromancer,2B,3,B,B,Creature  Human Cleric Mercenary,Rare,2,2
+Dross Crocodile,3B,4,B,B,Creature  Zombie Crocodile,Common,5,1
+Drudge Skeletons,1B,2,B,B,Creature  Skeleton,Uncommon,1,1
+Dusk Imp,2B,3,B,B,Creature  Imp,Common,2,1
+Essence Drain,4B,5,B,B,Sorcery,Common,,
+Fear,BB,2,B,B,Enchantment  Aura,Common,,
+Festering Goblin,B,1,B,B,Creature  Zombie Goblin,Common,1,1
+Grave Pact,1BBB,4,B,B,Enchantment,Rare,,
+Graveborn Muse,2BB,4,B,B,Creature  Zombie Spirit,Rare,3,3
+Gravedigger,3B,4,B,B,Creature  Zombie,Common,2,2
+Hate Weaver,1B,2,B,B,Creature  Zombie Wizard,Uncommon,2,1
+Head Games,3BB,5,B,B,Sorcery,Rare,,
+Hidden Horror,1BB,3,B,B,Creature  Horror,Uncommon,4,4
+Highway Robber,2BB,4,B,B,Creature  Human Mercenary,Common,2,2
+Hypnotic Specter,1BB,3,B,B,Creature  Specter,Rare,2,2
+Knight of Dusk,1BB,3,B,B,Creature  Human Knight,Uncommon,2,2
+Looming Shade,2B,3,B,B,Creature  Shade,Common,1,1
+Lord of the Pit,4BBB,7,B,B,Creature  Demon,Rare,7,7
+Lord of the Undead,1BB,3,B,B,Creature  Zombie,Rare,2,2
+Mass of Ghouls,3BB,5,B,B,Creature  Zombie Warrior,Common,5,3
+Megrim,2B,3,B,B,Enchantment,Uncommon,,
+Midnight Ritual,X2B,3,B,B,Sorcery,Rare,,
+Mind Rot,2B,3,B,B,Sorcery,Common,,
+Mortal Combat,2BB,4,B,B,Enchantment,Rare,,
+Mortivore,2BB,4,B,B,Creature  Lhurgoyf,Rare,,
+Nantuko Husk,2B,3,B,B,Creature  Zombie Insect,Uncommon,2,2
+Nekrataal,2BB,4,B,B,Creature  Human Assassin,Uncommon,2,1
+Nightmare,5B,6,B,B,Creature  Nightmare Horse,Rare,,
+No Rest for the Wicked,1B,2,B,B,Enchantment,Uncommon,,
+Phage the Untouchable,3BBBB,7,B,B,Legendary Creature  Avatar Minion,Rare,4,4
+Phyrexian Rager,2B,3,B,B,Creature  Phyrexian Horror,Common,2,2
+Plague Beetle,B,1,B,B,Creature  Insect,Common,1,1
+Plague Wind,7BB,9,B,B,Sorcery,Rare,,
+Rain of Tears,1BB,3,B,B,Sorcery,Uncommon,,
+Ravenous Rats,1B,2,B,B,Creature  Rat,Common,1,1
+Recover,2B,3,B,B,Sorcery,Common,,
+Relentless Rats,1BB,3,B,B,Creature  Rat,Uncommon,2,2
+Royal Assassin,1BB,3,B,B,Creature  Human Assassin,Rare,1,1
+Scathe Zombies,2B,3,B,B,Creature  Zombie,Common,2,2
+Sengir Vampire,3BB,5,B,B,Creature  Vampire,Rare,4,4
+Severed Legion,1BB,3,B,B,Creature  Zombie,Common,2,2
+Sleeper Agent,B,1,B,B,Creature  Phyrexian Minion,Rare,3,3
+Soul Feast,3BB,5,B,B,Sorcery,Uncommon,,
+Spineless Thug,1B,2,B,B,Creature  Phyrexian Zombie Mercenary,Common,2,2
+Stronghold Discipline,2BB,4,B,B,Sorcery,Uncommon,,
+Terror,1B,2,B,B,Instant,Common,,
+Thrull Surgeon,1B,2,B,B,Creature  Thrull,Uncommon,1,1
+Underworld Dreams,BBB,3,B,B,Enchantment,Rare,,
+Unholy Strength,B,1,B,B,Enchantment  Aura,Common,,
+Vampire Bats,B,1,B,B,Creature  Bat,Common,0,1
+Anaba Bodyguard,3R,4,R,R,Creature  Minotaur,Common,2,3
+Arcane Teachings,2R,3,R,R,Enchantment  Aura,Uncommon,,
+Beacon of Destruction,3RR,5,R,R,Instant,Rare,,
+Blaze,XR,1,R,R,Sorcery,Uncommon,,
+Bloodfire Colossus,6RR,8,R,R,Creature  Giant,Rare,6,6
+Bloodrock Cyclops,2R,3,R,R,Creature  Cyclops,Common,3,3
+Bogardan Firefiend,2R,3,R,R,Creature  Elemental Spirit,Common,2,1
+Cone of Flame,3RR,5,R,R,Sorcery,Uncommon,,
+Cryoclasm,2R,3,R,R,Sorcery,Uncommon,,
+Demolish,3R,4,R,R,Sorcery,Common,,
+Dragon Roost,4RR,6,R,R,Enchantment,Rare,,
+Duct Crawler,R,1,R,R,Creature  Insect,Common,1,1
+Earth Elemental,3RR,5,R,R,Creature  Elemental,Uncommon,4,5
+Firebreathing,R,1,R,R,Enchantment  Aura,Common,,
+Fists of the Anvil,1R,2,R,R,Instant,Common,,
+Flamewave Invoker,2R,3,R,R,Creature  Goblin Mutant,Uncommon,2,2
+Flowstone Slide,X2RR,4,R,R,Sorcery,Rare,,
+Furnace of Rath,1RRR,4,R,R,Enchantment,Rare,,
+Furnace Whelp,2RR,4,R,R,Creature  Dragon,Uncommon,2,2
+Goblin Elite Infantry,1R,2,R,R,Creature  Goblin Warrior,Common,2,2
+Goblin King,1RR,3,R,R,Creature  Goblin,Rare,2,2
+Goblin Lore,1R,2,R,R,Sorcery,Uncommon,,
+Goblin Piker,1R,2,R,R,Creature  Goblin Warrior,Common,2,1
+Goblin Sky Raider,2R,3,R,R,Creature  Goblin Warrior,Common,1,2
+Guerrilla Tactics,1R,2,R,R,Instant,Uncommon,,
+Hill Giant,3R,4,R,R,Creature  Giant,Common,3,3
+Incinerate,1R,2,R,R,Instant,Common,,
+"Kamahl, Pit Fighter",4RR,6,R,R,Legendary Creature  Human Barbarian,Rare,6,1
+Lava Axe,4R,5,R,R,Sorcery,Common,,
+Lavaborn Muse,3R,4,R,R,Creature  Spirit,Rare,3,3
+Lightning Elemental,3R,4,R,R,Creature  Elemental,Common,4,1
+Manabarbs,3R,4,R,R,Enchantment,Rare,,
+Mogg Fanatic,R,1,R,R,Creature  Goblin,Uncommon,1,1
+Orcish Artillery,1RR,3,R,R,Creature  Orc Warrior,Uncommon,1,3
+Prodigal Pyromancer,2R,3,R,R,Creature  Human Wizard,Common,1,1
+Pyroclasm,1R,2,R,R,Sorcery,Uncommon,,
+Rage Weaver,1R,2,R,R,Creature  Human Wizard,Uncommon,2,1
+Raging Goblin,R,1,R,R,Creature  Goblin Berserker,Common,1,1
+Relentless Assault,2RR,4,R,R,Sorcery,Rare,,
+Rock Badger,4R,5,R,R,Creature  Badger Beast,Common,3,3
+Scoria Wurm,4R,5,R,R,Creature  Wurm,Rare,7,7
+Seismic Assault,RRR,3,R,R,Enchantment,Rare,,
+Shatterstorm,2RR,4,R,R,Sorcery,Uncommon,,
+Shivan Dragon,4RR,6,R,R,Creature  Dragon,Rare,5,5
+Shivan Hellkite,5RR,7,R,R,Creature  Dragon,Rare,5,5
+Shock,R,1,R,R,Instant,Common,,
+Shunt,1RR,3,R,R,Instant,Rare,,
+Siege-Gang Commander,3RR,5,R,R,Creature  Goblin,Rare,2,2
+Smash,2R,3,R,R,Instant,Common,,
+Soulblast,3RRR,6,R,R,Instant,Rare,,
+Spark Elemental,R,1,R,R,Creature  Elemental,Uncommon,3,1
+Spitting Earth,1R,2,R,R,Sorcery,Common,,
+"Squee, Goblin Nabob",2R,3,R,R,Legendary Creature  Goblin,Rare,1,1
+Stun,1R,2,R,R,Instant,Common,,
+Sudden Impact,3R,4,R,R,Instant,Uncommon,,
+Threaten,2R,3,R,R,Sorcery,Uncommon,,
+Thundering Giant,3RR,5,R,R,Creature  Giant,Uncommon,4,3
+Uncontrollable Anger,2RR,4,R,R,Enchantment  Aura,Common,,
+Viashino Runner,3R,4,R,R,Creature  Viashino,Common,3,2
+Viashino Sandscout,1R,2,R,R,Creature  Viashino Scout,Common,2,1
+Wall of Fire,1RR,3,R,R,Creature  Wall,Uncommon,0,5
+Warp World,5RRR,8,R,R,Sorcery,Rare,,
+Abundance,2GG,4,G,G,Enchantment,Rare,,
+Aggressive Urge,1G,2,G,G,Instant,Common,,
+Avatar of Might,6GG,8,G,G,Creature  Avatar,Rare,8,8
+Birds of Paradise,G,1,G,G,Creature  Bird,Rare,0,1
+Blanchwood Armor,2G,3,G,G,Enchantment  Aura,Uncommon,,
+Canopy Spider,1G,2,G,G,Creature  Spider,Common,1,3
+Civic Wayfinder,2G,3,G,G,Creature  Elf Druid Warrior,Common,2,2
+Commune with Nature,G,1,G,G,Sorcery,Common,,
+Craw Wurm,4GG,6,G,G,Creature  Wurm,Common,6,4
+Creeping Mold,2GG,4,G,G,Sorcery,Uncommon,,
+Elven Riders,3GG,5,G,G,Creature  Elf,Uncommon,3,3
+Elvish Berserker,G,1,G,G,Creature  Elf Berserker,Common,1,1
+Elvish Champion,1GG,3,G,G,Creature  Elf,Rare,2,2
+Elvish Piper,3G,4,G,G,Creature  Elf Shaman,Rare,1,1
+Enormous Baloth,6G,7,G,G,Creature  Beast,Uncommon,7,7
+Femeref Archers,2G,3,G,G,Creature  Human Archer,Uncommon,2,2
+Gaea's Herald,1G,2,G,G,Creature  Elf,Rare,1,1
+Giant Growth,G,1,G,G,Instant,Common,,
+Giant Spider,3G,4,G,G,Creature  Spider,Common,2,4
+Grizzly Bears,1G,2,G,G,Creature  Bear,Common,2,2
+Hunted Wumpus,3G,4,G,G,Creature  Beast,Uncommon,6,6
+Hurricane,XG,1,G,G,Sorcery,Rare,,
+Joiner Adept,1G,2,G,G,Creature  Elf Druid,Rare,2,1
+Karplusan Strider,3G,4,G,G,Creature  Yeti,Uncommon,3,4
+Kavu Climber,3GG,5,G,G,Creature  Kavu,Common,3,3
+Llanowar Elves,G,1,G,G,Creature  Elf Druid,Common,1,1
+Llanowar Sentinel,2G,3,G,G,Creature  Elf,Common,2,3
+Lure,1GG,3,G,G,Enchantment  Aura,Uncommon,,
+Might of Oaks,3G,4,G,G,Instant,Rare,,
+Might Weaver,1G,2,G,G,Creature  Human Wizard,Uncommon,2,1
+"Mirri, Cat Warrior",1GG,3,G,G,Legendary Creature  Cat Warrior,Rare,2,3
+"Molimo, Maro-Sorcerer",4GGG,7,G,G,Legendary Creature  Elemental,Rare,,
+Natural Spring,3GG,5,G,G,Sorcery,Common,,
+Naturalize,1G,2,G,G,Instant,Common,,
+Overgrowth,2G,3,G,G,Enchantment  Aura,Common,,
+Overrun,2GGG,5,G,G,Sorcery,Uncommon,,
+Pincher Beetles,2G,3,G,G,Creature  Insect,Common,3,1
+Primal Rage,1G,2,G,G,Enchantment,Uncommon,,
+Quirion Dryad,1G,2,G,G,Creature  Dryad,Rare,1,1
+Rampant Growth,1G,2,G,G,Sorcery,Common,,
+Recollect,2G,3,G,G,Sorcery,Uncommon,,
+Regeneration,1G,2,G,G,Enchantment  Aura,Uncommon,,
+Rhox,4GG,6,G,G,Creature  Rhino Beast,Rare,5,5
+Root Maze,G,1,G,G,Enchantment,Rare,,
+Rootwalla,2G,3,G,G,Creature  Lizard,Common,2,2
+Rushwood Dryad,1G,2,G,G,Creature  Dryad,Common,2,1
+Scion of the Wild,1GG,3,G,G,Creature  Avatar,Rare,,
+Seedborn Muse,3GG,5,G,G,Creature  Spirit,Rare,2,4
+Skyshroud Ranger,G,1,G,G,Creature  Elf Ranger,Common,1,1
+Spined Wurm,4G,5,G,G,Creature  Wurm,Common,5,4
+Stalking Tiger,3G,4,G,G,Creature  Cat,Common,3,3
+Stampeding Wildebeests,2GG,4,G,G,Creature  Antelope Beast,Uncommon,5,4
+Sylvan Basilisk,3GG,5,G,G,Creature  Basilisk,Uncommon,2,4
+Sylvan Scrying,1G,2,G,G,Sorcery,Uncommon,,
+Tangle Spider,4GG,6,G,G,Creature  Spider,Uncommon,3,4
+Treetop Bracers,1G,2,G,G,Enchantment  Aura,Common,,
+Troll Ascetic,1GG,3,G,G,Creature  Troll Shaman,Rare,3,2
+Upwelling,3G,4,G,G,Enchantment,Rare,,
+Verdant Force,5GGG,8,G,G,Creature  Elemental,Rare,7,7
+Viridian Shaman,2G,3,G,G,Creature  Elf Shaman,Uncommon,2,2
+Wall of Wood,G,1,G,G,Creature  Wall,Common,0,3
+Yavimaya Enchantress,2G,3,G,G,Creature  Human Druid,Uncommon,2,2
+Angel's Feather,2,2,,,Artifact,Uncommon,,
+Bottle Gnomes,3,3,,,Artifact Creature  Gnome,Uncommon,1,3
+Chimeric Staff,4,4,,,Artifact,Rare,,
+Chromatic Star,1,1,,,Artifact,Uncommon,,
+Citanul Flute,5,5,,,Artifact,Rare,,
+Coat of Arms,5,5,,,Artifact,Rare,,
+Colossus of Sardia,9,9,,,Artifact Creature  Golem,Rare,9,9
+Composite Golem,6,6,,"B, G, R, U, W",Artifact Creature  Golem,Uncommon,4,4
+Crucible of Worlds,3,3,,,Artifact,Rare,,
+Demon's Horn,2,2,,,Artifact,Uncommon,,
+Doubling Cube,2,2,,,Artifact,Rare,,
+Dragon's Claw,2,2,,,Artifact,Uncommon,,
+Fountain of Youth,0,0,,,Artifact,Uncommon,,
+The Hive,5,5,,,Artifact,Rare,,
+Howling Mine,2,2,,,Artifact,Rare,,
+Icy Manipulator,4,4,,,Artifact,Uncommon,,
+Jayemdae Tome,4,4,,,Artifact,Rare,,
+Juggernaut,4,4,,,Artifact Creature  Juggernaut,Uncommon,5,3
+Kraken's Eye,2,2,,,Artifact,Uncommon,,
+Legacy Weapon,7,7,,"B, G, R, U, W",Legendary Artifact,Rare,,
+Leonin Scimitar,1,1,,,Artifact  Equipment,Uncommon,,
+Loxodon Warhammer,3,3,,,Artifact  Equipment,Rare,,
+Mantis Engine,5,5,,,Artifact Creature  Insect,Uncommon,3,3
+Millstone,2,2,,,Artifact,Rare,,
+Mind Stone,2,2,,,Artifact,Uncommon,,
+Ornithopter,0,0,,,Artifact Creature  Thopter,Uncommon,0,2
+Phyrexian Vault,3,3,,,Artifact,Uncommon,,
+Pithing Needle,1,1,,,Artifact,Rare,,
+Platinum Angel,7,7,,,Artifact Creature  Angel,Rare,4,4
+Razormane Masticore,5,5,,,Artifact Creature  Masticore,Rare,5,5
+Rod of Ruin,4,4,,,Artifact,Uncommon,,
+Sculpting Steel,3,3,,,Artifact,Rare,,
+Spellbook,0,0,,,Artifact,Uncommon,,
+Steel Golem,3,3,,,Artifact Creature  Golem,Uncommon,3,4
+Whispersilk Cloak,3,3,,,Artifact  Equipment,Uncommon,,
+Wurm's Tooth,2,2,,,Artifact,Uncommon,,
+Adarkar Wastes,,0,,"U, W",Land,Rare,,
+Battlefield Forge,,0,,"R, W",Land,Rare,,
+Brushland,,0,,"G, W",Land,Rare,,
+Caves of Koilos,,0,,"B, W",Land,Rare,,
+Faerie Conclave,,0,,U,Land,Uncommon,,
+Forbidding Watchtower,,0,,W,Land,Uncommon,,
+Ghitu Encampment,,0,,R,Land,Uncommon,,
+Karplusan Forest,,0,,"G, R",Land,Rare,,
+Llanowar Wastes,,0,,"B, G",Land,Rare,,
+Quicksand,,0,,,Land,Uncommon,,
+Shivan Reef,,0,,"R, U",Land,Rare,,
+Spawning Pool,,0,,B,Land,Uncommon,,
+Sulfurous Springs,,0,,"B, R",Land,Rare,,
+Terramorphic Expanse,,0,,,Land,Common,,
+Treetop Village,,0,,G,Land,Uncommon,,
+Underground River,,0,,"B, U",Land,Rare,,
+Yavimaya Coast,,0,,"G, U",Land,Rare,,
+Plains,,0,,W,Basic Land  Plains,Common,,
+Plains,,0,,W,Basic Land  Plains,Common,,
+Plains,,0,,W,Basic Land  Plains,Common,,
+Plains,,0,,W,Basic Land  Plains,Common,,
+Island,,0,,U,Basic Land  Island,Common,,
+Island,,0,,U,Basic Land  Island,Common,,
+Island,,0,,U,Basic Land  Island,Common,,
+Island,,0,,U,Basic Land  Island,Common,,
+Swamp,,0,,B,Basic Land  Swamp,Common,,
+Swamp,,0,,B,Basic Land  Swamp,Common,,
+Swamp,,0,,B,Basic Land  Swamp,Common,,
+Swamp,,0,,B,Basic Land  Swamp,Common,,
+Mountain,,0,,R,Basic Land  Mountain,Common,,
+Mountain,,0,,R,Basic Land  Mountain,Common,,
+Mountain,,0,,R,Basic Land  Mountain,Common,,
+Mountain,,0,,R,Basic Land  Mountain,Common,,
+Forest,,0,,G,Basic Land  Forest,Common,,
+Forest,,0,,G,Basic Land  Forest,Common,,
+Forest,,0,,G,Basic Land  Forest,Common,,
+Forest,,0,,G,Basic Land  Forest,Common,,
+Animate Wall,W,1,W,W,Enchantment  Aura,Rare,,
+Armageddon,3W,4,W,W,Sorcery,Rare,,
+Balance,1W,2,W,W,Sorcery,Rare,,
+Benalish Hero,W,1,W,W,Creature  Human Soldier,Common,1,1
+Black Ward,W,1,W,W,Enchantment  Aura,Uncommon,,
+Blaze of Glory,W,1,W,W,Instant,Rare,,
+Blessing,WW,2,W,W,Enchantment  Aura,Rare,,
+Blue Ward,W,1,W,W,Enchantment  Aura,Uncommon,,
+Castle,3W,4,W,W,Enchantment,Uncommon,,
+Circle of Protection: Black,1W,2,W,W,Enchantment,Common,,
+Circle of Protection: Blue,1W,2,W,W,Enchantment,Common,,
+Circle of Protection: Green,1W,2,W,W,Enchantment,Common,,
+Circle of Protection: Red,1W,2,W,W,Enchantment,Common,,
+Circle of Protection: White,1W,2,W,W,Enchantment,Common,,
+Consecrate Land,W,1,W,W,Enchantment  Aura,Uncommon,,
+Conversion,2WW,4,W,W,Enchantment,Uncommon,,
+Crusade,WW,2,W,W,Enchantment,Rare,,
+Death Ward,W,1,W,W,Instant,Common,,
+Disenchant,1W,2,W,W,Instant,Common,,
+Farmstead,WWW,3,W,W,Enchantment  Aura,Rare,,
+Green Ward,W,1,W,W,Enchantment  Aura,Uncommon,,
+Guardian Angel,XW,1,W,W,Instant,Common,,
+Healing Salve,W,1,W,W,Instant,Common,,
+Holy Armor,W,1,W,W,Enchantment  Aura,Common,,
+Holy Strength,W,1,W,W,Enchantment  Aura,Common,,
+Island Sanctuary,1W,2,W,W,Enchantment,Rare,,
+Karma,2WW,4,W,W,Enchantment,Uncommon,,
+Lance,W,1,W,W,Enchantment  Aura,Uncommon,,
+Mesa Pegasus,1W,2,W,W,Creature  Pegasus,Common,1,1
+Northern Paladin,2WW,4,W,W,Creature  Human Knight,Rare,3,3
+Pearled Unicorn,2W,3,W,W,Creature  Unicorn,Common,2,2
+Personal Incarnation,3WWW,6,W,W,Creature  Avatar Incarnation,Rare,6,6
+Purelace,W,1,W,W,Instant,Rare,,
+Red Ward,W,1,W,W,Enchantment  Aura,Uncommon,,
+Resurrection,2WW,4,W,W,Sorcery,Uncommon,,
+Reverse Damage,1WW,3,W,W,Instant,Rare,,
+Righteousness,W,1,W,W,Instant,Rare,,
+Samite Healer,1W,2,W,W,Creature  Human Cleric,Common,1,1
+Savannah Lions,W,1,W,W,Creature  Cat,Rare,2,1
+Serra Angel,3WW,5,W,W,Creature  Angel,Uncommon,4,4
+Swords to Plowshares,W,1,W,W,Instant,Uncommon,,
+Veteran Bodyguard,3WW,5,W,W,Creature  Human,Rare,2,5
+Wall of Swords,3W,4,W,W,Creature  Wall,Uncommon,3,5
+White Knight,WW,2,W,W,Creature  Human Knight,Uncommon,2,2
+White Ward,W,1,W,W,Enchantment  Aura,Uncommon,,
+Wrath of God,2WW,4,W,W,Sorcery,Rare,,
+Air Elemental,3UU,5,U,U,Creature  Elemental,Uncommon,4,4
+Ancestral Recall,U,1,U,U,Instant,Rare,,
+Animate Artifact,3U,4,U,U,Enchantment  Aura,Uncommon,,
+Blue Elemental Blast,U,1,U,U,Instant,Common,,
+Braingeyser,XUU,2,U,U,Sorcery,Rare,,
+Clone,3U,4,U,U,Creature  Shapeshifter,Uncommon,0,0
+Control Magic,2UU,4,U,U,Enchantment  Aura,Uncommon,,
+Copy Artifact,1U,2,U,U,Enchantment,Rare,,
+Counterspell,UU,2,U,U,Instant,Uncommon,,
+Creature Bond,1U,2,U,U,Enchantment  Aura,Common,,
+Drain Power,UU,2,U,U,Sorcery,Rare,,
+Feedback,2U,3,U,U,Enchantment  Aura,Uncommon,,
+Flight,U,1,U,U,Enchantment  Aura,Common,,
+Invisibility,UU,2,U,U,Enchantment  Aura,Common,,
+Jump,U,1,U,U,Instant,Common,,
+Lifetap,UU,2,U,U,Enchantment,Uncommon,,
+Lord of Atlantis,UU,2,U,U,Creature  Merfolk,Rare,2,2
+Magical Hack,U,1,U,U,Instant,Rare,,
+Mahamoti Djinn,4UU,6,U,U,Creature  Djinn,Rare,5,6
+Mana Short,2U,3,U,U,Instant,Rare,,
+Merfolk of the Pearl Trident,U,1,U,U,Creature  Merfolk,Common,1,1
+Phantasmal Forces,3U,4,U,U,Creature  Illusion,Uncommon,4,1
+Phantasmal Terrain,UU,2,U,U,Enchantment  Aura,Common,,
+Phantom Monster,3U,4,U,U,Creature  Illusion,Uncommon,3,3
+Pirate Ship,4U,5,U,U,Creature  Human Pirate,Rare,4,3
+Power Leak,1U,2,U,U,Enchantment  Aura,Common,,
+Power Sink,XU,1,U,U,Instant,Common,,
+Prodigal Sorcerer,2U,3,U,U,Creature  Human Wizard,Common,1,1
+Psionic Blast,2U,3,U,U,Instant,Uncommon,,
+Psychic Venom,1U,2,U,U,Enchantment  Aura,Common,,
+Sea Serpent,5U,6,U,U,Creature  Serpent,Common,5,5
+Siren's Call,U,1,U,U,Instant,Uncommon,,
+Sleight of Mind,U,1,U,U,Instant,Rare,,
+Spell Blast,XU,1,U,U,Instant,Common,,
+Stasis,1U,2,U,U,Enchantment,Rare,,
+Steal Artifact,2UU,4,U,U,Enchantment  Aura,Uncommon,,
+Thoughtlace,U,1,U,U,Instant,Rare,,
+Time Walk,1U,2,U,U,Sorcery,Rare,,
+Timetwister,2U,3,U,U,Sorcery,Rare,,
+Twiddle,U,1,U,U,Instant,Common,,
+Unsummon,U,1,U,U,Instant,Common,,
+Vesuvan Doppelganger,3UU,5,U,U,Creature  Shapeshifter,Rare,0,0
+Volcanic Eruption,XUUU,3,U,U,Sorcery,Rare,,
+Wall of Air,1UU,3,U,U,Creature  Wall,Uncommon,1,5
+Wall of Water,1UU,3,U,U,Creature  Wall,Uncommon,0,5
+Water Elemental,3UU,5,U,U,Creature  Elemental,Uncommon,5,4
+Animate Dead,1B,2,B,B,Enchantment  Aura,Uncommon,,
+Bad Moon,1B,2,B,B,Enchantment,Rare,,
+Black Knight,BB,2,B,B,Creature  Human Knight,Uncommon,2,2
+Bog Wraith,3B,4,B,B,Creature  Wraith,Uncommon,3,3
+Contract from Below,B,1,B,B,Sorcery,Rare,,
+Cursed Land,2BB,4,B,B,Enchantment  Aura,Uncommon,,
+Dark Ritual,B,1,B,B,Instant,Common,,
+Darkpact,BBB,3,B,B,Sorcery,Rare,,
+Deathgrip,BB,2,B,B,Enchantment,Uncommon,,
+Deathlace,B,1,B,B,Instant,Rare,,
+Demonic Attorney,1BB,3,B,B,Sorcery,Rare,,
+Demonic Hordes,3BBB,6,B,B,Creature  Demon,Rare,5,5
+Demonic Tutor,1B,2,B,B,Sorcery,Uncommon,,
+Drain Life,X1B,2,B,B,Sorcery,Common,,
+Drudge Skeletons,1B,2,B,B,Creature  Skeleton,Common,1,1
+Evil Presence,B,1,B,B,Enchantment  Aura,Uncommon,,
+Fear,BB,2,B,B,Enchantment  Aura,Common,,
+Frozen Shade,2B,3,B,B,Creature  Shade,Common,0,1
+Gloom,2B,3,B,B,Enchantment,Uncommon,,
+Howl from Beyond,XB,1,B,B,Instant,Common,,
+Hypnotic Specter,1BB,3,B,B,Creature  Specter,Uncommon,2,2
+Lich,BBBB,4,B,B,Enchantment,Rare,,
+Lord of the Pit,4BBB,7,B,B,Creature  Demon,Rare,7,7
+Mind Twist,XB,1,B,B,Sorcery,Rare,,
