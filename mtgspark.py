@@ -6,8 +6,8 @@ import happybase
 # Step 1: Create a Spark session
 spark = SparkSession.builder.appName("MTG Color Predictor").enableHiveSupport().getOrCreate()
 
-# Step 2: Load the data from the Hive table 'mtg_table' into a Spark DataFrame
-mtg_df = spark.sql("SELECT color_identity, power, toughness FROM mtg_table")
+# Step 2: Load the data from the Hive table 'mtgtable' into a Spark DataFrame
+mtg_df = spark.sql("SELECT color_identity, power, toughness FROM mtgtable")
 
 # Step 3: Handle null values by either dropping or filling them
 mtg_df = mtg_df.na.drop()  # Drop rows with null values
